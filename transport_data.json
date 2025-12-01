@@ -1,0 +1,25 @@
+{
+  "vehicles": [
+    {
+      "vehicle_id": "be495e50",
+      "type": "Van",
+      "capacity": 2000.0,
+      "max_altitude": null,
+      "is_refrigerated": false
+    },
+    {
+      "vehicle_id": "176e1a4f",
+      "type": "Airplane",
+      "capacity": 1234.0,
+      "max_altitude": 9876.0,
+      "is_refrigerated": null
+    }
+  ],
+  "clients": [
+    {
+      "name": "Petr Petrov",
+      "weight": 96.0,
+      "vip": true
+    }
+  ]
+}
