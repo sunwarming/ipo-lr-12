@@ -1,4 +1,3 @@
-# main_gui.py - исправленная версия
 import dearpygui.dearpygui as dpg
 import json
 import os
